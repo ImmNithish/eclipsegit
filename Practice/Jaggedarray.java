@@ -20,4 +20,5 @@ public class Jaggedarray {
 				System.out.print(" "+a[i][j]);
 		}
 		System.out.println(" ");*/
+		system.out.println();
 }
